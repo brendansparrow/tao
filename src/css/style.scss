@@ -1,0 +1,225 @@
+/*==============================
+=            Config            =
+==============================*/
+
+:root {
+  --max-width: 1200px;
+  --cols: 12;
+  --gutter: 1em;
+
+  --base-font-family: "Source Serif Pro", "Hoefler Text", Palatino, Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --base-font-size: 1em;
+  --base-line-height: 1.3;
+
+  --headings-font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Cantarell,Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --headings-font-weight: 700;
+  --headings-line-height: 1.25;
+
+  --text-size-sm: 0.875em;
+  --text-size: 1em;
+  --text-size-md: 1.25em;
+  --text-size-lg: 1.5em;
+  --text-size-xl: 2em;
+  --text-size-xxl: 2.5em;
+
+  --body-bg: #F5F5F5;
+
+  --text-color: #2A2929;
+}
+
+/*=====  End of Config  ======*/
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  line-height: var(--base-line-height);
+  margin: 0;
+  padding: 0;
+  color: var(--text-color);
+  background-color: var(--body-bg, #F5F5F5);
+  background-image: url('/images/tao-te-ching.png');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+
+  scroll-behavior: smooth;
+}
+
+main,
+header,
+footer {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: var(--gutter);
+}
+
+header {
+  height: 30vh;
+}
+
+h2 {
+	margin-top: 3em;
+}
+h2 {
+	position: relative;
+}
+h2::after {
+	content: '道';
+	position: absolute;
+	top: -1rem;
+	right: 1rem;
+	font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Heiti SC", "SimHei", sans-serif;
+	font-weight: 700;
+  font-size: 20vw;
+  color: #E6610B;
+  letter-spacing: 6px;
+  z-index: -1;
+}
+h2:nth-child(even)::after {
+	content: '德';
+}
+h2:last-of-type::after {
+	top: -6rem;
+}
+
+p + h3 {
+  margin-top: 3em;
+}
+a {
+	color: #E6610B;
+}
+
+
+/* navigation */
+
+.navigation {
+  display: none; // only displays if javascript is enabled
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 4rem;
+  background-color: white;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  overflow-x: scroll;
+}
+
+.navigation::-webkit-scrollbar {
+  display: none;
+}
+
+.info-button {
+	cursor: pointer;
+}
+
+.navigation span {
+	font-size: 0.8em;
+  padding: 0.25rem;
+  vertical-align: center;
+  text-align: center;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  transform: scale(0.25);
+  color: transparent;
+  transition: all 0.2s;
+}
+.navigation:hover .nav-item,
+.navigation:focus-within .nav-item {
+  margin: 0.25rem;
+  color: initial;
+  transform: scale(1);
+}
+
+.nav-link {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  padding: 0.25rem;
+  color: inherit;
+  text-decoration: none;
+  background-color: #d1d1d1;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link:hover,
+.nav-link.current {
+  background-color: orange;
+}
+
+
+
+
+@media screen and (min-width: 768px) {
+	:root {
+		--base-font-size: calc(1em + 0.4vw);
+	}
+	body {
+  	background-attachment: fixed;
+  	background-position: 0 100%;
+	}
+	h2::after {
+		font-size: 10vw;
+	}
+  .navigation {
+    width: 5rem;
+    height: 100vh;
+    flex-direction: column;
+    overflow-x: none;
+    overflow-y: scroll;
+    padding: 1rem;
+    align-items: center;
+    background-color: transparent;
+    font-size: 0.8em;
+  }
+  .info-button {
+  	margin-bottom: 6rem;
+  }
+  .nav-item {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+  }
+  .navigation span {
+    letter-spacing: 0.05em;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+  .rtl .navigation {
+  	right: 0;
+    direction: rtl;
+    padding: 6rem 1rem;
+    span {
+    	transform: none;
+    }
+  }
+}
+
+
+
+

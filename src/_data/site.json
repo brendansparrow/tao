@@ -1,0 +1,11 @@
+{
+  "title": "Tao Te Ching",
+  "url": "https://www.brendansparrow.com/tao",
+  "baseurl": "/",
+  "repo": "http://github.com/brendansparrow/tao",
+  "comments": false,
+  "author": {
+    "name": "Brendan Sparrow"
+  },
+  "og_locale": "en_GB"
+}
