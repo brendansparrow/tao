@@ -9,7 +9,7 @@
 
   --base-font-family: "Source Serif Pro", "Hoefler Text", Palatino, Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --base-font-size: 1em;
-  --base-line-height: 1.3;
+  --base-line-height: 1.4;
 
   --headings-font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Cantarell,Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --headings-font-weight: 700;
@@ -42,7 +42,7 @@ body {
   font-size: var(--base-font-size);
   line-height: var(--base-line-height);
   margin: 0;
-  padding: 0;
+  padding: 0 0 4em;
   color: var(--text-color);
   background-color: var(--body-bg, #F5F5F5);
   background-image: url('/images/tao-te-ching.webp');
@@ -57,7 +57,7 @@ header,
 footer {
   max-width: 40rem;
   margin: 0 auto;
-  padding: var(--gutter);
+  padding: calc(var(--gutter) * 1.5);
 }
 
 header {
