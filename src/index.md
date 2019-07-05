@@ -3,8 +3,6 @@ pageTitle: Tao Te Ching
 layout: base.liquid
 ---
 
-To do: Fix nav links. Add favicons and social cards.
-
 ## Book One
 
 ### 1 <a id="section-1"></a>
@@ -52,8 +50,8 @@ by emptying people's minds<br />
 and filling their cores,<br />
 by weakening their ambition<br />
 and toughening their resolve.<br />
-He helps people lose everything<br />
-they know, everything they desire,<br />
+He helps people lose everything they know,<br />
+everything they desire,<br />
 and creates confusion<br />
 in those who think that they know.<br />
 Practice not-doing,<br />

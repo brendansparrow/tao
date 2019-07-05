@@ -10,7 +10,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias('base', 'layouts/base.liquid')
 
   // Passtrhough copy
-  eleventyConfig.addPassthroughCopy('src/fonts')
   eleventyConfig.addPassthroughCopy('src/images')
   eleventyConfig.addPassthroughCopy('src/js')
 
