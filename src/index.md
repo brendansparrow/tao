@@ -7,7 +7,7 @@ To do: Fix nav links. Add favicons and social cards.
 
 ## Book One
 
-### 1 <a name="section-1"></a>
+### 1 <a id="section-1"></a>
 The tao that can be told<br />
 is not the eternal Tao<br />
 The name that can be named<br />
@@ -22,7 +22,7 @@ This source is called darkness.<br />
 Darkness within darkness.<br />
 The gateway to all understanding.
 
-### 2 <a name="section-2"></a>
+### 2 <a id="section-2"></a>
 When people see some things as beautiful,<br />
 other things become ugly.<br />
 When people see some things as good,<br />
@@ -42,7 +42,7 @@ acts but doesn't expect.<br />
 When her work is done, she forgets it.<br />
 That is why it lasts forever.
 
-### 3 <a name="section-3"></a>
+### 3 <a id="section-3"></a>
 If you overesteem great men,<br />
 people become powerless.<br />
 If you overvalue possessions,<br />
@@ -59,7 +59,7 @@ in those who think that they know.<br />
 Practice not-doing,<br />
 and everything will fall into place.
 
-### 4 <a name="section-4"></a>
+### 4 <a id="section-4"></a>
 The Tao is like a well:<br />
 used but never used up.<br />
 It is like the eternal void:<br />
@@ -68,7 +68,7 @@ It is hidden but always present.<br />
 I don't know who gave birth to it.<br />
 It is older than God.
 
-### 5 <a name="section-5"></a>
+### 5 <a id="section-5"></a>
 The Tao doesn't take sides;<br />
 it gives birth to both good and evil.<br />
 The Master doesn't take sides;<br />
@@ -79,14 +79,14 @@ The more you use it, the more it produces;<br />
 the more you talk of it, the less you understand.<br />
 Hold on to the center.
 
-### 6 <a name="section-6"></a>
+### 6 <a id="section-6"></a>
 The Tao is called the Great Mother:<br />
 empty yet inexhaustible,<br />
 it gives birth to infinite worlds.<br />
 It is always present within you.<br />
 You can use it any way you want.<br />
 
-### 7 <a name="section-7"></a>
+### 7 <a id="section-7"></a>
 The Tao is infinite, eternal.<br />
 Why is it eternal?<br />
 It was never born;<br />
@@ -101,7 +101,7 @@ that is why she is one with them.<br />
 Because she has let go of herself,<br />
 she is perfectly fulfilled.
 
-### 8 <a name="section-8"></a>
+### 8 <a id="section-8"></a>
 The supreme good is like water,<br />
 which nourishes all things without trying to.<br />
 It is content with the low places that people disdain.<br />
@@ -116,7 +116,7 @@ When you are content to be simply yourself<br />
 and don't compare or compete,<br />
 everybody will respect you.
 
-### 9 <a name="section-9"></a>
+### 9 <a id="section-9"></a>
 Fill your bowl to the brim<br />
 and it will spill.<br />
 Keep sharpening your knife<br />
@@ -128,7 +128,7 @@ and you will be their prisoner.<br />
 Do your work, then step back.<br />
 The only path to serenity.
 
-### 10 <a name="section-10"></a>
+### 10 <a id="section-10"></a>
 Can you coax your mind from its wandering<br />
 and keep to the original oneness?<br />
 Can you let your body become<br />
@@ -147,7 +147,7 @@ acting with no expectations,<br />
 leading and not trying to control:<br />
 this is the supreme virtue.
 
-### 11 <a name="section-11"></a>
+### 11 <a id="section-11"></a>
 We join spokes together in a wheel,<br />
 but it is the center hole<br />
 that makes the wagon move.<br />
@@ -160,7 +160,7 @@ that makes it livable.<br />
 We work with being,<br />
 but non-being is what we use.
 
-### 12 <a name="section-12"></a>
+### 12 <a id="section-12"></a>
 Colors blind the eye.<br />
 Sounds deafen the ear.<br />
 Flavors numb the taste.<br />
@@ -171,7 +171,7 @@ but trusts his inner vision.<br />
 He allows things to come and go.<br />
 His heart is open as the sky.
 
-### 13 <a name="section-13"></a>
+### 13 <a id="section-13"></a>
 Success is as dangerous as failure.<br />
 Hope is as hollow as fear.<br />
 What does it mean that success is as dangerous as failure?<br />
@@ -189,7 +189,7 @@ Have faith in the way things are.<br />
 Love the world as your self;<br />
 then you can care for all things.
 
-### 14 <a name="section-14"></a>
+### 14 <a id="section-14"></a>
 Look, and it can't be seen.<br />
 Listen, and it can't be heard.<br />
 Reach, and it can't be grasped.<br />
@@ -207,7 +207,7 @@ at ease in your own life.<br />
 Just realize where you come from:<br />
 this is the essence of wisdom.
 
-### 15 <a name="section-15"></a>
+### 15 <a id="section-15"></a>
 The ancient Masters were profound and subtle.<br />
 Their wisdom was unfathomable.<br />
 There is no way to describe it;<br />
@@ -228,7 +228,7 @@ The Master doesn't seek fulfillment.<br />
 Not seeking, not expecting,<br />
 she is present, and can welcome all things.
 
-### 16 <a name="section-16"></a>
+### 16 <a id="section-16"></a>
 Empty your mind of all thoughts.<br />
 Let your heart be at peace.<br />
 Watch the turmoil of beings,<br />
@@ -247,7 +247,7 @@ Immersed in the wonder of the Tao,<br />
 you can deal with whatever life brings you,<br />
 and when death comes, you are ready.
 
-### 17 <a name="section-17"></a>
+### 17 <a id="section-17"></a>
 When the Master governs, the people<br />
 are hardly aware that he exists.<br />
 Next best is a leader who is loved.<br />
@@ -259,7 +259,7 @@ The Master doesn't talk, he acts.<br />
 When his work is done,<br />
 the people say, "Amazing: we did it, all by ourselves!"
 
-### 18 <a name="section-18"></a>
+### 18 <a id="section-18"></a>
 When the great Tao is forgotten,<br />
 goodness and piety appear.<br />
 When the body's intelligence declines,<br />
@@ -269,7 +269,7 @@ filial piety begins.<br />
 When the country falls into chaos,<br />
 patriotism is born.
 
-### 19 <a name="section-19"></a>
+### 19 <a id="section-19"></a>
 Throw away holiness and wisdom,<br />
 and people will be a hundred times happier.<br />
 Throw away morality and justice,<br />
@@ -280,7 +280,7 @@ If these three aren't enough,<br />
 just stay at the center of the circle<br />
 and let all things take their course.
 
-### 20 <a name="section-20"></a>
+### 20 <a id="section-20"></a>
 Stop thinking, and end your problems.<br />
 What difference between yes and no?<br />
 What difference between success and failure?<br />
@@ -307,7 +307,7 @@ I blow as aimless as the wind.<br />
 I am different from ordinary people.<br />
 I drink from the Great Mother's breasts.
 
-### 21 <a name="section-21"></a>
+### 21 <a id="section-21"></a>
 The Master keeps her mind<br />
 always at one with the Tao;<br />
 that is what gives her her radiance.<br />
@@ -322,7 +322,7 @@ It is beyond is and is not.<br />
 How do I know this is true?<br />
 I look inside myself and see.
 
-### 22 <a name="section-22"></a>
+### 22 <a id="section-22"></a>
 If you want to become whole,<br />
 let yourself be partial.<br />
 If you want to become straight,<br />
@@ -348,7 +348,7 @@ When the ancient Masters said,<br />
 they weren't using empty phrases.<br />
 Only in being lived by the Tao can you be truly yourself.
 
-### 23 <a name="section-23"></a>
+### 23 <a id="section-23"></a>
 Express yourself completely,<br />
 then keep quiet.<br />
 Be like the forces of nature:<br />
@@ -368,7 +368,7 @@ Open yourself to the Tao,<br />
 then trust your natural responses;<br />
 and everything will fall into place.
 
-### 24 <a name="section-24"></a>
+### 24 <a id="section-24"></a>
 He who stands on tiptoe<br />
 doesn't stand firm.<br />
 He who rushes ahead<br />
@@ -385,7 +385,7 @@ If you want to accord with the Tao,<br />
 just do your job,<br />
 then let go.
 
-### 25 <a name="section-25"></a>
+### 25 <a id="section-25"></a>
 There was something formless and perfect<br />
 before the universe was born.<br />
 It is serene. Empty.<br />
@@ -407,7 +407,7 @@ Earth follows the universe.<br />
 The universe follows the Tao.<br />
 The Tao follows only itself.
 
-### 26 <a name="section-26"></a>
+### 26 <a id="section-26"></a>
 The heavy is the root of the light.<br />
 The unmoved is the source of all movement.<br />
 Thus the Master travels all day<br />
@@ -421,7 +421,7 @@ you lose touch with your root.<br />
 If you let restlessness move you,<br />
 you lose touch with who you are.
 
-### 27 <a name="section-27"></a>
+### 27 <a id="section-27"></a>
 A good traveler has no fixed plans<br />
 and is not intent upon arriving.<br />
 A good artist lets his intuition<br />
@@ -440,7 +440,7 @@ you will get lost,<br />
 however intelligent you are.<br />
 It is the great secret.
 
-### 28 <a name="section-28"></a>
+### 28 <a id="section-28"></a>
 Know the male,<br />
 yet keep to the female:<br />
 receive the world in your arms.<br />
@@ -465,7 +465,7 @@ The Master knows the utensils,<br />
 yet keeps to the the block:<br />
 thus she can use all things.
 
-### 29 <a name="section-29"></a>
+### 29 <a id="section-29"></a>
 Do you want to improve the world?<br />
 I don't think it can be done. The world is sacred.<br />
 It can't be improved.<br />
@@ -484,7 +484,7 @@ without trying to control them.<br />
 She lets them go their own way,<br />
 and resides at the center of the circle.
 
-### 30 <a name="section-30"></a>
+### 30 <a id="section-30"></a>
 Whoever relies on the Tao in governing men<br />
 doesn't try to force issues<br />
 or defeat enemies by force of arms.<br />
@@ -504,7 +504,7 @@ he doesn't need others' approval.<br />
 Because he accepts himself,<br />
 the whole world accepts him.
 
-### 31 <a name="section-31"></a>
+### 31 <a id="section-31"></a>
 Weapons are the tools of violence;<br />
 all decent men detest them.<br />
 Weapons are the tools of fear;<br />
@@ -525,7 +525,7 @@ He enters a battle gravely,<br />
 with sorrow and with great compassion,<br />
 as if he were attending a funeral.
 
-### 32 <a name="section-32"></a>
+### 32 <a id="section-32"></a>
 The Tao can't be perceived.<br />
 Smaller than an electron,<br />
 it contains uncountable galaxies.<br />
@@ -544,7 +544,7 @@ you can avoid any danger.<br />
 All things end in the Tao<br />
 as rivers flow into the sea.
 
-### 33 <a name="section-33"></a>
+### 33 <a id="section-33"></a>
 Knowing others is intelligence;<br />
 knowing yourself is true wisdom.<br />
 Mastering others is strength;<br />
@@ -555,7 +555,7 @@ If you stay in the center<br />
 and embrace death with your whole heart,<br />
 you will endure forever.
 
-### 34 <a name="section-34"></a>
+### 34 <a id="section-34"></a>
 The great Tao flows everywhere.<br />
 All things are born from it,<br />
 yet it doesn't create them.<br />
@@ -572,7 +572,7 @@ it can be called great.<br />
 It isn't aware of its greatness;<br />
 thus it is truly great.
 
-### 35 <a name="section-35"></a>
+### 35 <a id="section-35"></a>
 She who is centered in the Tao<br />
 can go where she wishes, without danger.<br />
 She perceives the universal harmony,<br />
@@ -586,7 +586,7 @@ When you look for it, there is nothing to see.<br />
 When you listen for it, there is nothing to hear.<br />
 When you use it, it is inexhaustible.
 
-### 36 <a name="section-36"></a>
+### 36 <a id="section-36"></a>
 If you want to shrink something,<br />
 you must first allow it to expand.<br />
 If you want to get rid of something,<br />
@@ -600,7 +600,7 @@ The slow overcomes the fast.<br />
 Let your workings remain a mystery.<br />
 Just show people the results.
 
-### 37 <a name="section-37"></a>
+### 37 <a id="section-37"></a>
 The Tao never does anything,<br />
 yet through it all things are done.<br />
 If powerful men and women<br />
@@ -615,7 +615,7 @@ all things are at peace.
 
 ## Book Two
 
-### 38 <a name="section-38"></a>
+### 38 <a id="section-38"></a>
 The Master doesn't try to be powerful;<br />
 thus he is truly powerful.<br />
 The ordinary man keeps reaching for power;<br />
@@ -643,7 +643,7 @@ He has no will of his own.<br />
 He dwells in reality,<br />
 and lets all illusions go.
 
-### 39 <a name="section-39"></a>
+### 39 <a id="section-39"></a>
 In harmony with the Tao,<br />
 the sky is clear and spacious,<br />
 the earth is solid and full,<br />
@@ -663,13 +663,13 @@ He doesn't glitter like a jewel<br />
 but lets himself be shaped by the Tao,<br />
 as rugged and common as stone.
 
-### 40 <a name="section-40"></a>
+### 40 <a id="section-40"></a>
 Return is the movement of the Tao.<br />
 Yielding is the way of the Tao.<br />
 All things are born of being.<br />
 Being is born of non-being.<br />
 
-### 41 <a name="section-41"></a>
+### 41 <a id="section-41"></a>
 When a superior man hears of the Tao,<br />
 he immediately begins to embody it.<br />
 When an average man hears of the Tao,<br />
@@ -691,7 +691,7 @@ the greatest wisdom seems childish.<br />
 The Tao is nowhere to be found.<br />
 Yet it nourishes and completes all things.
 
-### 42 <a name="section-42"></a>
+### 42 <a id="section-42"></a>
 The Tao gives birth to One.<br />
 One gives birth to Two.<br />
 Two gives birth to Three.<br />
@@ -705,7 +705,7 @@ But the Master makes use of it,<br />
 embracing his aloneness,<br />
 realizing he is one with the whole universe.
 
-### 43 <a name="section-43"></a>
+### 43 <a id="section-43"></a>
 The gentlest thing in the world<br />
 overcomes the hardest thing in the world.<br />
 That which has no substance<br />
@@ -715,7 +715,7 @@ Teaching without words,<br />
 performing without actions:<br />
 that is the Master's way.
 
-### 44 <a name="section-44"></a>
+### 44 <a id="section-44"></a>
 Fame or integrity: which is more important?<br />
 Money or happiness: which is more valuable?<br />
 Success of failure: which is more destructive?<br />
@@ -728,7 +728,7 @@ rejoice in the way things are.<br />
 When you realize there is nothing lacking,<br />
 the whole world belongs to you.
 
-### 45 <a name="section-45"></a>
+### 45 <a id="section-45"></a>
 True perfection seems imperfect,<br />
 yet it is perfectly itself.<br />
 True fullness seems empty,<br />
@@ -741,7 +741,7 @@ She shapes events as they come.<br />
 She steps out of the way<br />
 and lets the Tao speak for itself.
 
-### 46 <a name="section-46"></a>
+### 46 <a id="section-46"></a>
 When a country is in harmony with the Tao,<br />
 the factories make trucks and tractors.<br />
 When a country goes counter to the Tao,<br />
@@ -752,7 +752,7 @@ no greater misfortune than having an enemy.<br />
 Whoever can see through all fear<br />
 will always be safe.
 
-### 47 <a name="section-47"></a>
+### 47 <a id="section-47"></a>
 Without opening your door,<br />
 you can open your heart to the world.<br />
 Without looking out your window,<br />
@@ -763,7 +763,7 @@ The Master arrives without leaving,<br />
 sees the light without looking,<br />
 achieves without doing a thing.
 
-### 48 <a name="section-48"></a>
+### 48 <a id="section-48"></a>
 In pursuit of knowledge,<br />
 every day something is added.<br />
 In the practice of the Tao,<br />
@@ -776,7 +776,7 @@ True mastery can be gained<br />
 by letting things go their own way.<br />
 It can't be gained by interfering.
 
-### 49 <a name="section-49"></a>
+### 49 <a id="section-49"></a>
 The Master has no mind of her own.<br />
 She works with the mind of the people.<br />
 She is good to people who are good.<br />
@@ -790,7 +790,7 @@ People don't understand her.<br />
 They look to her and wait.<br />
 She treats them like her own children.
 
-### 50 <a name="section-50"></a>
+### 50 <a id="section-50"></a>
 The Master gives himself up<br />
 to whatever the moment brings.<br />
 He knows that he is going to die,<br />
@@ -804,7 +804,7 @@ therefore he is ready for death,<br />
 as a man is ready for sleep<br />
 after a good day's work.
 
-### 51 <a name="section-51"></a>
+### 51 <a id="section-51"></a>
 Every being in the universe<br />
 is an expression of the Tao.<br />
 It springs into existence,<br />
@@ -823,7 +823,7 @@ guiding without interfering.<br />
 That is why love of the Tao<br />
 is in the very nature of things.
 
-### 52 <a name="section-52"></a>
+### 52 <a id="section-52"></a>
 In the beginning was the Tao.<br />
 All things issue from it;<br />
 all things return to it.<br />
@@ -844,7 +844,7 @@ Use your own light<br />
 and return to the source of light.<br />
 This is called practicing eternity.
 
-### 53 <a name="section-53"></a>
+### 53 <a id="section-53"></a>
 The great Way is easy,<br />
 yet people prefer the side paths.<br />
 Be aware when things are out of balance.<br />
@@ -858,7 +858,7 @@ while the poor have nowhere to turn-<br />
 all this is robbery and chaos.<br />
 It is not in keeping with the Tao.
 
-### 54 <a name="section-54"></a>
+### 54 <a id="section-54"></a>
 Whoever is planted in the Tao<br />
 will not be rooted up.<br />
 Whoever embraces the Tao<br />
@@ -877,7 +877,7 @@ and the universe will sing.<br />
 How do I know this is true?<br />
 By looking inside myself.
 
-### 55 <a name="section-55"></a>
+### 55 <a id="section-55"></a>
 He who is in harmony with the Tao<br />
 is like a newborn child.<br />
 Its bones are soft, its muscles are weak,<br />
@@ -897,7 +897,7 @@ thus he is never disappointed.<br />
 He is never disappointed;<br />
 thus his spirit never grows old.
 
-### 56 <a name="section-56"></a>
+### 56 <a id="section-56"></a>
 Those who know don't talk.<br />
 Those who talk don't know.<br />
 Close your mouth,<br />
@@ -914,7 +914,7 @@ honored or brought into disgrace.<br />
 It gives itself up continually.<br />
 That is why it endures.
 
-### 57 <a name="section-57"></a>
+### 57 <a id="section-57"></a>
 If you want to be a great leader,<br />
 you must learn to follow the Tao.<br />
 Stop trying to control.<br />
@@ -936,7 +936,7 @@ and people become serene.<br />
 I let go of all desire for the common good,<br />
 and the good becomes common as grass.
 
-### 58 <a name="section-58"></a>
+### 58 <a id="section-58"></a>
 If a country is governed with tolerance,<br />
 the people are comfortable and honest.<br />
 If a country is governed with repression,<br />
@@ -954,7 +954,7 @@ She is pointed, but doesn't pierce.<br />
 Straightforward, but supple.<br />
 Radiant, but easy on the eyes.
 
-### 59 <a name="section-59"></a>
+### 59 <a id="section-59"></a>
 For governing a country well<br />
 there is nothing better than moderation.<br />
 The mark of a moderate man<br />
@@ -971,7 +971,7 @@ Because he has let go,<br />
 he can care for the people's welfare<br />
 as a mother cares for her child.
 
-### 60 <a name="section-60"></a>
+### 60 <a id="section-60"></a>
 Governing a large country<br />
 is like frying a small fish.<br />
 You spoil it with too much poking.<br />
@@ -982,7 +982,7 @@ but you'll be able to step out of its way.<br />
 Give evil nothing to oppose<br />
 and it will disappear by itself.
 
-### 61 <a name="section-61"></a>
+### 61 <a id="section-61"></a>
 When a country obtains great power,<br />
 it becomes like the sea:<br />
 all streams run downward into it.<br />
@@ -1003,7 +1003,7 @@ if it nourishes its own people<br />
 and doesn't meddle in the affairs of others,<br />
 it will be a light to all nations in the world.
 
-### 62 <a name="section-62"></a>
+### 62 <a id="section-62"></a>
 The Tao is the center of the universe,<br />
 the good man's treasure,<br />
 the bad man's refuge.<br />
@@ -1022,7 +1022,7 @@ when you seek, you find;<br />
 and when you make a mistake, you are forgiven.<br />
 That is why everybody loves it.
 
-### 63 <a name="section-63"></a>
+### 63 <a id="section-63"></a>
 Act without doing;<br />
 work without effort.<br />
 Think of the small as large<br />
@@ -1038,7 +1038,7 @@ she stops and gives herself to it.<br />
 She doesn't cling to her own comfort;<br />
 thus problems are no problem for her.
 
-### 64 <a name="section-64"></a>
+### 64 <a id="section-64"></a>
 What is rooted is easy to nourish.<br />
 What is recent is easy to correct.<br />
 What is brittle is easy to break.<br />
@@ -1066,7 +1066,7 @@ of who they have always been.<br />
 He cares about nothing but the Tao.<br />
 Thus he can care for all things.
 
-### 65 <a name="section-65"></a>
+### 65 <a id="section-65"></a>
 The ancient Masters<br />
 didn't try to educate the people,<br />
 but kindly taught them to not-know.<br />
@@ -1081,7 +1081,7 @@ Content with an ordinary life,<br />
 you can show all people the way<br />
 back to their own true nature.
 
-### 66 <a name="section-66"></a>
+### 66 <a id="section-66"></a>
 All streams flow to the sea<br />
 because it is lower than they are.<br />
 Humility gives it its power.<br />
@@ -1097,7 +1097,7 @@ The whole world is grateful to her.<br />
 Because she competes with no one,<br />
 no one can compete with her.
 
-### 67 <a name="section-67"></a>
+### 67 <a id="section-67"></a>
 Some say that my teaching is nonsense.<br />
 Others call it lofty but impractical.<br />
 But to those who have looked inside themselves,<br />
@@ -1114,7 +1114,7 @@ you accord with the way things are.<br />
 Compassionate toward yourself,<br />
 you reconcile all beings in the world.
 
-### 68 <a name="section-68"></a>
+### 68 <a id="section-68"></a>
 The best athlete<br />
 wants his opponent at his best.<br />
 The best general<br />
@@ -1130,7 +1130,7 @@ but they do it in the spirit of play.<br />
 In this they are like children<br />
 and in harmony with the Tao.
 
-### 69 <a name="section-69"></a>
+### 69 <a id="section-69"></a>
 The generals have a saying:<br />
 "Rather than make the first move<br />
 it is better to wait and see.<br />
@@ -1148,7 +1148,7 @@ When two great forces oppose each other,<br />
 the victory will go<br />
 to the one that knows how to yield.
 
-### 70 <a name="section-70"></a>
+### 70 <a id="section-70"></a>
 My teachings are easy to understand<br />
 and easy to put into practice.<br />
 Yet your intellect will never grasp them,<br />
@@ -1158,7 +1158,7 @@ How can you grasp their meaning?<br />
 If you want to know me,<br />
 look inside your heart.
 
-### 71 <a name="section-71"></a>
+### 71 <a id="section-71"></a>
 Not-knowing is true knowledge.<br />
 Presuming to know is a disease.<br />
 First realize that you are sick;<br />
@@ -1167,7 +1167,7 @@ The Master is her own physician.<br />
 She has healed herself of all knowing.<br />
 Thus she is truly whole.
 
-### 72 <a name="section-72"></a>
+### 72 <a id="section-72"></a>
 When they lose their sense of awe,<br />
 people turn to religion.<br />
 When they no longer trust themselves,<br />
@@ -1177,7 +1177,7 @@ so that people won't be confused.<br />
 He teaches without a teaching,<br />
 so that people will have nothing to learn.
 
-### 73 <a name="section-73"></a>
+### 73 <a id="section-73"></a>
 The Tao is always at ease.<br />
 It overcomes without competing,<br />
 answers without speaking a word,<br />
@@ -1187,7 +1187,7 @@ Its net covers the whole universe.<br />
 And though its meshes are wide,<br />
 it doesn't let a thing slip through.
 
-### 74 <a name="section-74"></a>
+### 74 <a id="section-74"></a>
 If you realize that all things change,<br />
 there is nothing you will try to hold on to.<br />
 If you aren't afraid of dying,<br />
@@ -1197,7 +1197,7 @@ is like trying to take the master carpenter's place.<br />
 When you handle the master carpenter's tools,<br />
 chances are that you'll cut your hand.
 
-### 75 <a name="section-75"></a>
+### 75 <a id="section-75"></a>
 When taxes are too high,<br />
 people go hungry.<br />
 When the government is too intrusive,<br />
@@ -1205,7 +1205,7 @@ people lose their spirit.<br />
 Act for the people's benefit.<br />
 Trust them; leave them alone.
 
-### 76 <a name="section-76"></a>
+### 76 <a id="section-76"></a>
 Men are born soft and supple;<br />
 dead, they are stiff and hard.<br />
 Plats are born tender and pliant;<br />
@@ -1217,7 +1217,7 @@ is a disciple of life.<br />
 The hard and stiff will be broken.<br />
 The soft and supple will prevail.
 
-### 77 <a name="section-77"></a>
+### 77 <a id="section-77"></a>
 As it acts in the world, the Tao<br />
 is like the bending of a bow.<br />
 The top is bent downward;<br />
@@ -1238,7 +1238,7 @@ succeeds without taking credit,<br />
 and doesn't think that she is better<br />
 than anyone else.
 
-### 78 <a name="section-78"></a>
+### 78 <a id="section-78"></a>
 Nothing in the world<br />
 is as soft and yielding as water.<br />
 Yet for dissolving the hard and inflexible,<br />
@@ -1254,7 +1254,7 @@ Because he has given up helping,<br />
 he is people's greatest help.<br />
 True words seem paradoxical.
 
-### 79 <a name="section-79"></a>
+### 79 <a id="section-79"></a>
 Failure is an opportunity.<br />
 If you blame someone else,<br />
 there is no end to the blame.<br />
@@ -1264,7 +1264,7 @@ and corrects her own mistakes.<br />
 She does what she needs to do<br />
 and demands nothing of others.
 
-### 80 <a name="section-80"></a>
+### 80 <a id="section-80"></a>
 If a country is governed wisely,<br />
 its inhabitants will be content.<br />
 They enjoy the labor of their hands<br />
@@ -1285,7 +1285,7 @@ that people can hear its roosters crowing and its dogs barking,<br />
 they are content to die of old age<br />
 without ever having gone to see it.
 
-### 81 <a name="section-81"></a>
+### 81 <a id="section-81"></a>
 True words aren't eloquent;<br />
 eloquent words aren't true.<br />
 Wise men don't need to prove their point;<br />

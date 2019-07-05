@@ -8,7 +8,7 @@
   nav.className += ' visible'
 
 	// Make array from sections
-  var section = document.querySelectorAll('h3')
+  var section = document.querySelectorAll('h3 > a')
   var sections = {}
   var i = 0; Array.prototype.forEach.call(section, function (e) {
     sections[e.id] = e.offsetTop
