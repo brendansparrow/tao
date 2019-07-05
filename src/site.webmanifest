@@ -1,6 +1,6 @@
 {
-    "name": "Dao",
-    "short_name": "Dao",
+    "name": "Tao",
+    "short_name": "Tao",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url": "tao-te-ching.surge.sh"
 }
