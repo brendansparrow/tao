@@ -12,6 +12,8 @@ module.exports = function (eleventyConfig) {
   // Passtrhough copy
   eleventyConfig.addPassthroughCopy('src/images')
   eleventyConfig.addPassthroughCopy('src/js')
+  eleventyConfig.addPassthroughCopy('src/upup.min.js')
+  eleventyConfig.addPassthroughCopy('src/upup.sw.min.js')
 
   eleventyConfig.addPassthroughCopy('src/favicon.ico')
   eleventyConfig.addPassthroughCopy('src/favicon-16x16.png')
