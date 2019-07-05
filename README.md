@@ -1,6 +1,6 @@
 # Tao Te Ching
 
-> A miniature website dedicated to the Tao Te Ching.
+> A progressive web app (PWA) dedicated to the Tao Te Ching.
 
 ### License
 
