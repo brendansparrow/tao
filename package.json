@@ -1,0 +1,20 @@
+{
+  "name": "dao",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy",
+    "build:sass": "node-sass src/css/style.scss dist/css/style.css",
+    "watch:sass": "npm run build:sass && npm run build:sass -- -w",
+    "serve": "npm run watch:sass & npx @11ty/eleventy --serve",
+    "build": "eleventy --path-prefix=dao",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Sparrow",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3",
+    "node-sass": "^4.12.0"
+  }
+}
