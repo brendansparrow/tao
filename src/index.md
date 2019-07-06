@@ -35,8 +35,8 @@ acts without doing anything<br />
 and teaches without saying anything.<br />
 Things arise and she lets them come;<br />
 things disappear and she lets them go.<br />
-She has but doesn't possess,<br />
-acts but doesn't expect.<br />
+She has but doesn&rsquo;t possess,<br />
+acts but doesn&rsquo;t expect.<br />
 When her work is done, she forgets it.<br />
 That is why it lasts forever.
 
@@ -46,7 +46,7 @@ people become powerless.<br />
 If you overvalue possessions,<br />
 people begin to steal.<br />
 The Master leads<br />
-by emptying people's minds<br />
+by emptying people&rsquo;s minds<br />
 and filling their cores,<br />
 by weakening their ambition<br />
 and toughening their resolve.<br />
@@ -63,13 +63,13 @@ used but never used up.<br />
 It is like the eternal void:<br />
 filled with infinite possibilities.<br />
 It is hidden but always present.<br />
-I don't know who gave birth to it.<br />
+I don&rsquo;t know who gave birth to it.<br />
 It is older than God.
 
 ### 5 <a id="section-5"></a>
-The Tao doesn't take sides;<br />
+The Tao doesn&rsquo;t take sides;<br />
 it gives birth to both good and evil.<br />
-The Master doesn't take sides;<br />
+The Master doesn&rsquo;t take sides;<br />
 she welcomes both saints and sinners.<br />
 The Tao is like a bellows:<br />
 it is empty yet infinitely capable.<br />
@@ -107,11 +107,11 @@ Thus it is like the Tao.<br />
 In dwelling, live close to the ground.<br />
 In thinking, keep to the simple.<br />
 In conflict, be fair and generous.<br />
-In governing, don't try to control.<br />
+In governing, don&rsquo;t try to control.<br />
 In work, do what you enjoy.<br />
 In family life, be completely present.<br />
 When you are content to be simply yourself<br />
-and don't compare or compete,<br />
+and don&rsquo;t compare or compete,<br />
 everybody will respect you.
 
 ### 9 <a id="section-9"></a>
@@ -121,7 +121,7 @@ Keep sharpening your knife<br />
 and it will blunt.<br />
 Chase after money and security<br />
 and your heart will never unclench.<br />
-Care about people's approval<br />
+Care about people&rsquo;s approval<br />
 and you will be their prisoner.<br />
 Do your work, then step back.<br />
 The only path to serenity.
@@ -130,7 +130,7 @@ The only path to serenity.
 Can you coax your mind from its wandering<br />
 and keep to the original oneness?<br />
 Can you let your body become<br />
-supple as a newborn child's?<br />
+supple as a newborn child&rsquo;s?<br />
 Can you cleanse your inner vision<br />
 until you see nothing but the light?<br />
 Can you love people and lead them<br />
@@ -174,13 +174,13 @@ Success is as dangerous as failure.<br />
 Hope is as hollow as fear.<br />
 What does it mean that success is as dangerous as failure?<br />
 Whether you go up the ladder or down it,<br />
-you position is shaky.<br />
+your position is shaky.<br />
 When you stand with your two feet on the ground,<br />
 you will always keep your balance.<br />
 What does it mean that hope is as hollow as fear?<br />
 Hope and fear are both phantoms<br />
 that arise from thinking of the self.<br />
-When we don't see the self as self,<br />
+When we don&rsquo;t see the self as self,<br />
 what do we have to fear?<br />
 See the world as your self.<br />
 Have faith in the way things are.<br />
@@ -188,11 +188,11 @@ Love the world as your self;<br />
 then you can care for all things.
 
 ### 14 <a id="section-14"></a>
-Look, and it can't be seen.<br />
-Listen, and it can't be heard.<br />
-Reach, and it can't be grasped.<br />
-Above, it isn't bright.<br />
-Below, it isn't dark.<br />
+Look, and it can&rsquo;t be seen.<br />
+Listen, and it can&rsquo;t be heard.<br />
+Reach, and it can&rsquo;t be grasped.<br />
+Above, it isn&rsquo;t bright.<br />
+Below, it isn&rsquo;t dark.<br />
 Seamless, unnamable,<br />
 it returns to the realm of nothing.<br />
 Form that includes all forms,<br />
@@ -200,7 +200,7 @@ image without an image,<br />
 subtle, beyond all conception.<br />
 Approach it and there is no beginning;<br />
 follow it and there is no end.<br />
-You can't know it, but you can be it,<br />
+You can&rsquo;t know it, but you can be it,<br />
 at ease in your own life.<br />
 Just realize where you come from:<br />
 this is the essence of wisdom.
@@ -222,7 +222,7 @@ Do you have the patience to wait<br />
 till your mud settles and the water is clear?<br />
 Can you remain unmoving<br />
 till the right action arises by itself?<br />
-The Master doesn't seek fulfillment.<br />
+The Master doesn&rsquo;t seek fulfillment.<br />
 Not seeking, not expecting,<br />
 she is present, and can welcome all things.
 
@@ -234,7 +234,7 @@ but contemplate their return.<br />
 Each separate being in the universe<br />
 returns to the common source.<br />
 Returning to the source is serenity.<br />
-If you don't realize the source,<br />
+If you don&rsquo;t realize the source,<br />
 you stumble in confusion and sorrow.<br />
 When you realize where you come from,<br />
 you naturally become tolerant,<br />
@@ -251,16 +251,16 @@ are hardly aware that he exists.<br />
 Next best is a leader who is loved.<br />
 Next, one who is feared.<br />
 The worst is one who is despised.<br />
-If you don't trust the people,<br />
+If you don&rsquo;t trust the people,<br />
 you make them untrustworthy.<br />
-The Master doesn't talk, he acts.<br />
+The Master doesn&rsquo;t talk, he acts.<br />
 When his work is done,<br />
 the people say, "Amazing: we did it, all by ourselves!"
 
 ### 18 <a id="section-18"></a>
 When the great Tao is forgotten,<br />
 goodness and piety appear.<br />
-When the body's intelligence declines,<br />
+When the body&rsquo;s intelligence declines,<br />
 cleverness and knowledge step forth.<br />
 When there is no peace in the family,<br />
 filial piety begins.<br />
@@ -273,8 +273,8 @@ and people will be a hundred times happier.<br />
 Throw away morality and justice,<br />
 and people will do the right thing.<br />
 Throw away industry and profit,<br />
-and there won't be any thieves.<br />
-If these three aren't enough,<br />
+and there won&rsquo;t be any thieves.<br />
+If these three aren&rsquo;t enough,<br />
 just stay at the center of the circle<br />
 and let all things take their course.
 
@@ -286,7 +286,7 @@ Must you value what others value,<br />
 avoid what others avoid?<br />
 How ridiculous! Other people are excited,<br />
 as though they were at a parade.<br />
-I alone don't care,<br />
+I alone don&rsquo;t care,<br />
 I alone am expressionless,<br />
 like an infant before it can smile.<br />
 Other people have what they need;<br />
@@ -299,11 +299,11 @@ I alone am dark.<br />
 Other people are sharper;<br />
 I alone am dull.<br />
 Other people have a purpose;<br />
-I alone don't know.<br />
+I alone don&rsquo;t know.<br />
 I drift like a wave on the ocean,<br />
 I blow as aimless as the wind.<br />
 I am different from ordinary people.<br />
-I drink from the Great Mother's breasts.
+I drink from the Great Mother&rsquo;s breasts.
 
 ### 21 <a id="section-21"></a>
 The Master keeps her mind<br />
@@ -311,7 +311,7 @@ always at one with the Tao;<br />
 that is what gives her her radiance.<br />
 The Tao is ungraspable.<br />
 How can her mind be at one with it?<br />
-Because she doesn't cling to ideas.<br />
+Because she doesn&rsquo;t cling to ideas.<br />
 The Tao is dark and unfathomable.<br />
 How can it make her radiant?<br />
 Because she lets it.<br />
@@ -333,17 +333,17 @@ If you want to be given everything,<br />
 give everything up.<br />
 The Master, by residing in the Tao,<br />
 sets an example for all beings.<br />
-Because he doesn't display himself,<br />
+Because he doesn&rsquo;t display himself,<br />
 people can see his light.<br />
 Because he has nothing to prove,<br />
 people can trust his words.<br />
-Because he doesn't know who he is,<br />
+Because he doesn&rsquo;t know who he is,<br />
 people recognize themselves in him.<br />
 Because he has no goad in mind,<br />
 everything he does succeeds.<br />
 When the ancient Masters said,<br />
 "If you want to be given everything, give everything up,"<br />
-they weren't using empty phrases.<br />
+they weren&rsquo;t using empty phrases.<br />
 Only in being lived by the Tao can you be truly yourself.
 
 ### 23 <a id="section-23"></a>
@@ -368,15 +368,15 @@ and everything will fall into place.
 
 ### 24 <a id="section-24"></a>
 He who stands on tiptoe<br />
-doesn't stand firm.<br />
+doesn&rsquo;t stand firm.<br />
 He who rushes ahead<br />
-doesn't go far.<br />
+doesn&rsquo;t go far.<br />
 He who tries to shine<br />
 dims his own light.<br />
 He who defines himself<br />
-can't know who he really is.<br />
+can&rsquo;t know who he really is.<br />
 He who has power over others<br />
-can't empower himself.<br />
+can&rsquo;t empower himself.<br />
 He who clings to his work<br />
 will create nothing that endures.<br />
 If you want to accord with the Tao,<br />
@@ -427,13 +427,13 @@ lead him wherever it wants.<br />
 A good scientist has freed himself of concepts<br />
 and keeps his mind open to what is.<br />
 Thus the Master is available to all people<br />
-and doesn't reject anyone.<br />
+and doesn&rsquo;t reject anyone.<br />
 He is ready to use all situations<br />
-and doesn't waste anything.<br />
+and doesn&rsquo;t waste anything.<br />
 This is called embodying the light.<br />
-What is a good man but a bad man's teacher?<br />
-What is a bad man but a good man's job?<br />
-If you don't understand this,<br />
+What is a good man but a bad man&rsquo;s teacher?<br />
+What is a bad man but a good man&rsquo;s job?<br />
+If you don&rsquo;t understand this,<br />
 you will get lost,<br />
 however intelligent you are.<br />
 It is the great secret.
@@ -450,7 +450,7 @@ yet keep to the black:<br />
 be a pattern for the world.<br />
 If you are a pattern for the world,<br />
 the Tao will be strong inside you<br />
-and there will be nothing you can't do.<br />
+and there will be nothing you can&rsquo;t do.<br />
 Know the personal,<br />
 yet keep to the impersonal:<br />
 accept the world as it is.<br />
@@ -465,10 +465,10 @@ thus she can use all things.
 
 ### 29 <a id="section-29"></a>
 Do you want to improve the world?<br />
-I don't think it can be done. The world is sacred.<br />
-It can't be improved.<br />
-If you tamper with it, you'll ruin it.<br />
-If you treat it like an object, you'll lose it.<br />
+I don&rsquo;t think it can be done. The world is sacred.<br />
+It can&rsquo;t be improved.<br />
+If you tamper with it, you&rsquo;ll ruin it.<br />
+If you treat it like an object, you&rsquo;ll lose it.<br />
 There is a time for being ahead,<br />
 a time for being behind;<br />
 a time for being in motion,<br />
@@ -484,7 +484,7 @@ and resides at the center of the circle.
 
 ### 30 <a id="section-30"></a>
 Whoever relies on the Tao in governing men<br />
-doesn't try to force issues<br />
+doesn&rsquo;t try to force issues<br />
 or defeat enemies by force of arms.<br />
 For every force there is a counterforce.<br />
 Violence, even well intentioned,<br />
@@ -496,9 +496,9 @@ is forever out of control,<br />
 and that trying to dominate events<br />
 goes against the current of the Tao.<br />
 Because he believes in himself,<br />
-he doesn't try to convince others.<br />
+he doesn&rsquo;t try to convince others.<br />
 Because he is content with himself,<br />
-he doesn't need others' approval.<br />
+he doesn&rsquo;t need others&rsquo; approval.<br />
 Because he accepts himself,<br />
 the whole world accepts him.
 
@@ -515,7 +515,7 @@ If the peace has been shattered,<br />
 how can he be content?<br />
 His enemies are not demons,<br />
 but human beings like himself.<br />
-He doesn't wish them personal harm.<br />
+He doesn&rsquo;t wish them personal harm.<br />
 Nor does he rejoice in victory.<br />
 How could he rejoice in victory<br />
 and delight in the slaughter of men?<br />
@@ -524,7 +524,7 @@ with sorrow and with great compassion,<br />
 as if he were attending a funeral.
 
 ### 32 <a id="section-32"></a>
-The Tao can't be perceived.<br />
+The Tao can&rsquo;t be perceived.<br />
 Smaller than an electron,<br />
 it contains uncountable galaxies.<br />
 If powerful men and women<br />
@@ -556,18 +556,18 @@ you will endure forever.
 ### 34 <a id="section-34"></a>
 The great Tao flows everywhere.<br />
 All things are born from it,<br />
-yet it doesn't create them.<br />
+yet it doesn&rsquo;t create them.<br />
 It pours itself into its work,<br />
 yet it makes no claim.<br />
 It nourishes infinite worlds,<br />
-yet it doesn't hold on to them.<br />
+yet it doesn&rsquo;t hold on to them.<br />
 Since it is merged with all things<br />
 and hidden in their hearts,<br />
 it can be called humble.<br />
 Since all things vanish into it<br />
 and it alone endures,<br />
 it can be called great.<br />
-It isn't aware of its greatness;<br />
+It isn&rsquo;t aware of its greatness;<br />
 thus it is truly great.
 
 ### 35 <a id="section-35"></a>
@@ -614,7 +614,7 @@ all things are at peace.
 ## Book Two
 
 ### 38 <a id="section-38"></a>
-The Master doesn't try to be powerful;<br />
+The Master doesn&rsquo;t try to be powerful;<br />
 thus he is truly powerful.<br />
 The ordinary man keeps reaching for power;<br />
 thus he never has enough.<br />
@@ -657,7 +657,7 @@ creatures become extinct.<br />
 The Master views the parts with compassion,<br />
 because he understands the whole.<br />
 His constant practice is humility.<br />
-He doesn't glitter like a jewel<br />
+He doesn&rsquo;t glitter like a jewel<br />
 but lets himself be shaped by the Tao,<br />
 as rugged and common as stone.
 
@@ -674,8 +674,8 @@ When an average man hears of the Tao,<br />
 he half believes it, half doubts it.<br />
 When a foolish man hears of the Tao,<br />
 he laughs out loud.<br />
-If he didn't laugh,<br />
-it wouldn't be the Tao. Thus it is said:<br />
+If he didn&rsquo;t laugh,<br />
+it wouldn&rsquo;t be the Tao. Thus it is said:<br />
 The path into the light seems dark,<br />
 the path forward seems to go back,<br />
 the direct path seems long,<br />
@@ -711,7 +711,7 @@ enters where there is no space.<br />
 This shows the value of non-action.<br />
 Teaching without words,<br />
 performing without actions:<br />
-that is the Master's way.
+that is the Master&rsquo;s way.
 
 ### 44 <a id="section-44"></a>
 Fame or integrity: which is more important?<br />
@@ -772,19 +772,19 @@ When nothing is done,<br />
 nothing is left undone.<br />
 True mastery can be gained<br />
 by letting things go their own way.<br />
-It can't be gained by interfering.
+It can&rsquo;t be gained by interfering.
 
 ### 49 <a id="section-49"></a>
 The Master has no mind of her own.<br />
 She works with the mind of the people.<br />
 She is good to people who are good.<br />
-She is also good to people who aren't good.<br />
+She is also good to people who aren&rsquo;t good.<br />
 This is true goodness.<br />
 She trusts people who are trustworthy.<br />
-She also trusts people who aren't trustworthy.<br />
+She also trusts people who aren&rsquo;t trustworthy.<br />
 This is true trust.<br />
-The Master's mind is like space.<br />
-People don't understand her.<br />
+The Master&rsquo;s mind is like space.<br />
+People don&rsquo;t understand her.<br />
 They look to her and wait.<br />
 She treats them like her own children.
 
@@ -795,12 +795,12 @@ He knows that he is going to die,<br />
 and her has nothing left to hold on to:<br />
 no illusions in his mind,<br />
 no resistances in his body.<br />
-He doesn't think about his actions;<br />
+He doesn&rsquo;t think about his actions;<br />
 they flow from the core of his being.<br />
 He holds nothing back from life;<br />
 therefore he is ready for death,<br />
 as a man is ready for sleep<br />
-after a good day's work.
+after a good day&rsquo;s work.
 
 ### 51 <a id="section-51"></a>
 Every being in the universe<br />
@@ -834,7 +834,7 @@ If you close your mind in judgements<br />
 and traffic with desires,<br />
 your heart will be troubled.<br />
 If you keep your mind from judging<br />
-and aren't led by the senses,<br />
+and aren&rsquo;t led by the senses,<br />
 your heart will find peace.<br />
 Seeing into darkness is clarity.<br />
 Knowing how to yield is strength.<br />
@@ -880,14 +880,14 @@ He who is in harmony with the Tao<br />
 is like a newborn child.<br />
 Its bones are soft, its muscles are weak,<br />
 but its grip is powerful.<br />
-It doesn't know about the union<br />
+It doesn&rsquo;t know about the union<br />
 of male and female,<br />
 yet its penis can stand erect,<br />
 so intense is its vital power.<br />
 It can scream its head off all day,<br />
 yet it never becomes hoarse,<br />
 so complete is its harmony.<br />
-The Master's power is like this.<br />
+The Master&rsquo;s power is like this.<br />
 He lets all things come and go effortlessly,<br />
 without desire.<br />
 He never expects results;<br />
@@ -896,8 +896,8 @@ He is never disappointed;<br />
 thus his spirit never grows old.
 
 ### 56 <a id="section-56"></a>
-Those who know don't talk.<br />
-Those who talk don't know.<br />
+Those who know don&rsquo;t talk.<br />
+Those who talk don&rsquo;t know.<br />
 Close your mouth,<br />
 block off your senses,<br />
 blunt your sharpness,<br />
@@ -906,7 +906,7 @@ soften your glare,<br />
 settle your dust.<br />
 This is the primal identity.<br />
 Be like the Tao.<br />
-It can't be approached or withdrawn from,<br />
+It can&rsquo;t be approached or withdrawn from,<br />
 benefited or harmed,<br />
 honored or brought into disgrace.<br />
 It gives itself up continually.<br />
@@ -948,7 +948,7 @@ and you lay the groundwork for vice.<br />
 Thus the Master is content<br />
 to serve as an example<br />
 and not to impose her will.<br />
-She is pointed, but doesn't pierce.<br />
+She is pointed, but doesn&rsquo;t pierce.<br />
 Straightforward, but supple.<br />
 Radiant, but easy on the eyes.
 
@@ -966,7 +966,7 @@ and makes use of anything<br />
 life happens to bring his way.<br />
 Nothing is impossible for him.<br />
 Because he has let go,<br />
-he can care for the people's welfare<br />
+he can care for the people&rsquo;s welfare<br />
 as a mother cares for her child.
 
 ### 60 <a id="section-60"></a>
@@ -975,8 +975,8 @@ is like frying a small fish.<br />
 You spoil it with too much poking.<br />
 Center your country in the Tao<br />
 and evil will have no power.<br />
-Not that it isn't there,<br />
-but you'll be able to step out of its way.<br />
+Not that it isn&rsquo;t there,<br />
+but you&rsquo;ll be able to step out of its way.<br />
 Give evil nothing to oppose<br />
 and it will disappear by itself.
 
@@ -998,19 +998,19 @@ He thinks of his enemy<br />
 as the shadow that he himself casts.<br />
 If a nation is centered in the Tao,<br />
 if it nourishes its own people<br />
-and doesn't meddle in the affairs of others,<br />
+and doesn&rsquo;t meddle in the affairs of others,<br />
 it will be a light to all nations in the world.
 
 ### 62 <a id="section-62"></a>
 The Tao is the center of the universe,<br />
-the good man's treasure,<br />
-the bad man's refuge.<br />
+the good man&rsquo;s treasure,<br />
+the bad man&rsquo;s refuge.<br />
 Honors can be bought with fine words,<br />
 respect can be won with good deeds;<br />
 but the Tao is beyond all value,<br />
 and no one can achieve it.<br />
 Thus, when a new leader is chosen,<br />
-don't offer to help him<br />
+don&rsquo;t offer to help him<br />
 with your wealth or your expertise.<br />
 Offer instead<br />
 to teach him about the Tao.<br />
@@ -1033,7 +1033,7 @@ The Master never reaches for the great;<br />
 thus she achieves greatness.<br />
 When she runs into a difficulty,<br />
 she stops and gives herself to it.<br />
-She doesn't cling to her own comfort;<br />
+She doesn&rsquo;t cling to her own comfort;<br />
 thus problems are no problem for her.
 
 ### 64 <a id="section-64"></a>
@@ -1066,11 +1066,11 @@ Thus he can care for all things.
 
 ### 65 <a id="section-65"></a>
 The ancient Masters<br />
-didn't try to educate the people,<br />
+didn&rsquo;t try to educate the people,<br />
 but kindly taught them to not-know.<br />
 When they think that they know the answers,<br />
 people are difficult to guide.<br />
-When they know that they don't know,<br />
+When they know that they don&rsquo;t know,<br />
 people can find their own way.<br />
 If you want to learn how to govern,<br />
 avoid being clever or rich.<br />
@@ -1123,7 +1123,7 @@ The best leader<br />
 follows the will of the people.<br />
 All of the embody<br />
 the virtue of non-competition.<br />
-Not that they don't love to compete,<br />
+Not that they don&rsquo;t love to compete,<br />
 but they do it in the spirit of play.<br />
 In this they are like children<br />
 and in harmony with the Tao.
@@ -1150,7 +1150,7 @@ to the one that knows how to yield.
 My teachings are easy to understand<br />
 and easy to put into practice.<br />
 Yet your intellect will never grasp them,<br />
-and if you try to practice them, you'll fail.<br />
+and if you try to practice them, you&rsquo;ll fail.<br />
 My teachings are older than the world.<br />
 How can you grasp their meaning?<br />
 If you want to know me,<br />
@@ -1171,7 +1171,7 @@ people turn to religion.<br />
 When they no longer trust themselves,<br />
 they begin to depend upon authority.<br />
 Therefore the Master steps back<br />
-so that people won't be confused.<br />
+so that people won&rsquo;t be confused.<br />
 He teaches without a teaching,<br />
 so that people will have nothing to learn.
 
@@ -1183,24 +1183,24 @@ arrives without being summoned,<br />
 accomplishes without a plan.<br />
 Its net covers the whole universe.<br />
 And though its meshes are wide,<br />
-it doesn't let a thing slip through.
+it doesn&rsquo;t let a thing slip through.
 
 ### 74 <a id="section-74"></a>
 If you realize that all things change,<br />
 there is nothing you will try to hold on to.<br />
-If you aren't afraid of dying,<br />
-there is nothing you can't achieve.<br />
+If you aren&rsquo;t afraid of dying,<br />
+there is nothing you can&rsquo;t achieve.<br />
 Trying to control the future<br />
-is like trying to take the master carpenter's place.<br />
-When you handle the master carpenter's tools,<br />
-chances are that you'll cut your hand.
+is like trying to take the master carpenter&rsquo;s place.<br />
+When you handle the master carpenter&rsquo;s tools,<br />
+chances are that you&rsquo;ll cut your hand.
 
 ### 75 <a id="section-75"></a>
 When taxes are too high,<br />
 people go hungry.<br />
 When the government is too intrusive,<br />
 people lose their spirit.<br />
-Act for the people's benefit.<br />
+Act for the people&rsquo;s benefit.<br />
 Trust them; leave them alone.
 
 ### 76 <a id="section-76"></a>
@@ -1223,17 +1223,17 @@ the bottom is bent up.<br />
 It adjusts excess and deficiency<br />
 so that there is perfect balance.<br />
 It takes from what is too much<br />
-and give to what isn't enough.<br />
+and give to what isn&rsquo;t enough.<br />
 Those who try to control,<br />
 who use force to protect their power,<br />
 go against the direction of the Tao.<br />
-They take from those who don't have enough<br />
+They take from those who don&rsquo;t have enough<br />
 and give to those who have far too much.<br />
 The Master can keep giving<br />
 because there is no end to her wealth.<br />
 She acts without expectation,<br />
 succeeds without taking credit,<br />
-and doesn't think that she is better<br />
+and doesn&rsquo;t think that she is better<br />
 than anyone else.
 
 ### 78 <a id="section-78"></a>
@@ -1249,7 +1249,7 @@ Therefore the Master remains<br />
 serene in the midst of sorrow.<br />
 Evil cannot enter his heart.<br />
 Because he has given up helping,<br />
-he is people's greatest help.<br />
+he is people&rsquo;s greatest help.<br />
 True words seem paradoxical.
 
 ### 79 <a id="section-79"></a>
@@ -1266,12 +1266,12 @@ and demands nothing of others.
 If a country is governed wisely,<br />
 its inhabitants will be content.<br />
 They enjoy the labor of their hands<br />
-and don't waste time inventing<br />
+and don&rsquo;t waste time inventing<br />
 labor-saving machines.<br />
 Since they dearly love their homes,<br />
-they aren't interested in travel.<br />
+they aren&rsquo;t interested in travel.<br />
 There may be a few wagons and boats,<br />
-but these don't go anywhere.<br />
+but these don&rsquo;t go anywhere.<br />
 There may be an arsenal of weapons,<br />
 but nobody ever uses them.<br />
 People enjoy their food,<br />
@@ -1284,10 +1284,10 @@ they are content to die of old age<br />
 without ever having gone to see it.
 
 ### 81 <a id="section-81"></a>
-True words aren't eloquent;<br />
-eloquent words aren't true.<br />
-Wise men don't need to prove their point;<br />
-men who need to prove their point aren't wise.<br />
+True words aren&rsquo;t eloquent;<br />
+eloquent words aren&rsquo;t true.<br />
+Wise men don&rsquo;t need to prove their point;<br />
+men who need to prove their point aren&rsquo;t wise.<br />
 The Master has no possessions.<br />
 The more he does for others,<br />
 the happier he is.<br />
